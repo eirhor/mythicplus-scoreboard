@@ -15,5 +15,17 @@ export const character = defineField({
       title: 'Realm',
       type: 'string',
     },
+    {
+      name: 'class',
+      title: 'Class',
+      type: 'reference',
+      to: {type: 'characterClass'},
+    },
+    {
+      name: 'spec',
+      title: 'Spec',
+      type: 'reference',
+      to: {type: 'characterSpec'},
+    },
   ],
 })
