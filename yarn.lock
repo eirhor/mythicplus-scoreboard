@@ -859,11 +859,6 @@ get-stream@^6.0.0:
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-6.0.1.tgz#a262d8eef67aced57c2852ad6167526a43cbf7b7"
   integrity sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==
 
-geta-prettier-config@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/geta-prettier-config/-/geta-prettier-config-1.0.0.tgz#148be9a3966efa6a7e8a9846d39b05660dacbe66"
-  integrity sha512-DcJW6eJcE98XCq0Nxzf4QdKy+hAtnMSZr337Kb8Iaz+rqT1zF6WH50WmL/eRQvIWK2nSbskta52GEr6fCM444A==
-
 git-raw-commits@^2.0.0, git-raw-commits@^2.0.8:
   version "2.0.11"
   resolved "https://registry.yarnpkg.com/git-raw-commits/-/git-raw-commits-2.0.11.tgz#bc3576638071d18655e1cc60d7f524920008d723"
